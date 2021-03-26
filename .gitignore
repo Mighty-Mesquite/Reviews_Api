@@ -1,0 +1,6 @@
+*.csv
+crying.sql
+dataReconfig.js
+schemas/index.js
+node_modules
+tests/
